@@ -1,0 +1,6 @@
+	#base "../!scheme/main.res"
+	#base "../!scheme/font.res"
+	#base "../!scheme/colors.res"
+	#base "../!scheme/borders.res"
+	#base "cs_windows.res"
+	#base "clientscheme_unused.res"
