@@ -23,37 +23,8 @@
 		"brighttext"		"0"
 		"wrap"		"1"
 		"convar"		"r_drawviewmodel"
-	}	"ValueBar0"
-	{
-		"ControlName"		"AnalogBar"
-		"fieldName"			"ValueBar0"
-		"xpos"		"c98"
-		"ypos"		"100"
-		"zpos"				"100"
-		"wide"				"230"
-		"tall"				"27"
-		"tabPosition"		"0"
-		"progress"			"0.5"
-	}		
+	}
 
-	"ActionTwoBind"
-	{
-		"ControlName"			"CBindPanel"
-		"fieldName"				"ActionTwoBind"
-		"xpos"					"0"
-		"ypos"					"-10"
-		"zpos"					"2"
-		"visible"				"1"
-		"enabled"				"1"
-		"fgcolor_override"      "127 127 127 255"
-		"scale"                 "1.0"
-		"bind"					"+attack2" [$WIN32]
-		"bind"					"+attack" [$X360]
-	
-		"pin_to_sibling"		"ValueBar0"
-		"pin_corner_to_sibling"	"1"
-		"pin_to_sibling_corner"	"0"
-	}		
 		"FriendsContainer"
 		{
 			"ControlName"	"EditablePanel"
@@ -75,7 +46,7 @@
 				"xpos"			"cs-0.5"
 				"ypos"			"0"
 				"zpos"			"500"
-				"wide"			"f10"
+				"wide"			"f0"
 				"tall"			"300"
 				"visible"		"1"
 				"proportionaltoparent"	"1"
@@ -97,7 +68,7 @@
 				{
 					"ControlName"	"ScrollBar"
 					"FieldName"		"ScrollBar"
-					"xpos"			"rs1-1"
+					"xpos"			"rs1+2"
 					"ypos"			"0"
 					"tall"			"f0"
 					"wide"			"5" // This gets slammed from client schme.  GG.
@@ -107,7 +78,7 @@
 
 					"Slider"
 					{
-						"fgcolor_override"	"TanDark"
+						"fgcolor_override"	"32 32 32 255"
 					}
 				}
 			}
