@@ -1,5 +1,5 @@
 # JofreHUD: Windows 11
-![JOFREHUD](https://user-images.githubusercontent.com/70734327/168698992-4c9f8cb7-0a76-49e0-8c6d-0dd3e5cbe318.png)
+![JOFREHUD11](https://user-images.githubusercontent.com/70734327/169179217-0d578ce9-4b0a-43bc-abf3-c99d604cb8a1.png)
 
 # Description:
 This is a year old project that i made. However, due to how I changed quickly of ideas, this whole conecpt of making a HUD looking like Windows 11 has been lost.
