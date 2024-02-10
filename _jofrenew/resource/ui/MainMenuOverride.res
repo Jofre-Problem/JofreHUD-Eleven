@@ -19,6 +19,41 @@
 {
 	"MainMenuOverride"
 	{	}
+	"discord"
+	{
+	"ControlName""ImagePanel"
+	"fieldName""discord"
+	"xpos""cs-0.5+128"
+	"ypos""rs1-6"
+	"zpos""1600"
+	"wide""15"
+	"tall""o1"
+	"image""replay/thumbnails/discord"
+	"visible""1"
+	"enabled""1"
+	"scaleimage""1"
+	}	
+	"disurl"
+	{
+		ControlName				URLLabel
+		FieldName				"disurl"
+		xPos					0
+		yPos					0
+		zPos					4001
+		wide					35
+		tall					p0.051
+
+		font					"Blank"
+		labelText				""
+		enabled					1
+		visible					1
+
+		paintBackground			0
+			
+		urlText				"https://discord.gg/2s89aHAN"
+
+		pin_to_sibling			"discord"			
+	}		
 	"TFCharacterImage"
 	{
 		"tall"			"0"

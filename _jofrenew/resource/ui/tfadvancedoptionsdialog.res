@@ -2,7 +2,7 @@
 #base "../#jofre/w_op-panel.res"
 #base "../#jofre/charbg.res"
 #base "../#jofre/1ccvar.res"
-#base "../#jofre/blur_bg_image.res"
+//#base "../#jofre/blur_bg_image.res"
 #base "../#jofre/dashboard_bg.res"
 "Resource\UI\TFAdvancedOptionsDialog.res"
 {
