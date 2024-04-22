@@ -31,7 +31,7 @@
 		wide					f0
 		tall					f-10
 		title					""
-		settitlebarvisible		0
+		settitlebarvisible		1
 		paintbackground			1
 
 		
